@@ -1,6 +1,6 @@
 import telegram
 import sys
-import ChatBotModel
+import ChatBotModel_ha
 
 chii_token = '1184525831:AAGXQ9-Es5COmMc8TSjV3Z6EWGHy3efjyUI'
 chii = telegram.Bot(token = chii_token)
